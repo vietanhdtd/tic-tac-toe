@@ -1,8 +1,7 @@
 # CoderSchool FTW - * Tic Tac Toe*
 
 Created with love by: Viet Anh Nguyen
-  
-One or two sentence summary of your project. 
+
 
 ## Demo
 
